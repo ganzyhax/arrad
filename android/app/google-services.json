@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034749575055",
+    "project_id": "arrad-764d8",
+    "storage_bucket": "arrad-764d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034749575055:android:005ecef1d1a7d2958615fa",
+        "android_client_info": {
+          "package_name": "com.example.ar_rad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034749575055-tompcjph0j05r2qf6dgctlta28o52k0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOnvHJtJ_hO1woTyU8oe9tfLWNGmF8KS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034749575055-tompcjph0j05r2qf6dgctlta28o52k0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
